@@ -1,0 +1,12 @@
+body {
+	margin: 0;
+	font-family: Helvetica;
+}
+
+#container {
+	color: blue;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+}
